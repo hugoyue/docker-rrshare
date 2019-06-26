@@ -11,7 +11,7 @@
 docker run --name rrshare \
   -d -p3001:3001 \
   -v ~/Downloads/rrshare:/opt/work/store:rw \
-  krast0/rrshare:1.0
+  gowah/rrshare64:latest
 ```
 
 ## web界面
