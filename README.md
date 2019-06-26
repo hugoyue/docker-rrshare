@@ -1,6 +1,8 @@
 # docker-rrshare
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/gowah/rrshare64.svg)](https://hub.docker.com/r/gowah/rrshare64) [**喵斯基部落**](https://www.moewah.com/)，**为你的乐趣专属定制，不定时更新好玩/好看/好用。**
+[![Docker Pulls](https://img.shields.io/docker/pulls/gowah/rrshare64.svg)](https://hub.docker.com/r/gowah/rrshare64)
+
+[**喵斯基部落**](https://www.moewah.com/)，**为你的乐趣专属定制，不定时更新好玩/好看/好用。**
 
 支持群晖
 
