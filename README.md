@@ -1,7 +1,6 @@
 # docker-rrshare
 
-美剧爱好者福音:
-[人人影视WEB远程管理版](http://app.zimuzu.tv/)
+[**喵斯基部落**](https://www.moewah.com/)，**为你的乐趣专属定制，不定时更新好玩/好看/好用。**
 
 支持群晖
 
