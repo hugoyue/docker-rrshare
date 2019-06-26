@@ -11,6 +11,7 @@ wget --no-check-certificate https://api.mao.sh/source/rrshareweb_centos7.tar.gz 
 tar zxvf *.tar.gz && rm -rf *.tar.gz && \
 chmod a+x  /opt/rrshareweb && \
 sed -i "s#f:\/store#\/opt\/work\/store#" rrshareweb/conf/rrshare.json && \
+sed -i "s#\"logpath\" : \"\"#\"logpath\" : \"\/opt\/work\/\"#" rrshareweb/conf/rrshare.json && \
 mkdir -p /opt/work/store && chmod 755 -R /opt
 
 EXPOSE 3001 6714 30210
